@@ -3,7 +3,7 @@ import json
 
 # الحصول على مسار المشروع الحالي
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-BASE_URL = "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main"
+BASE_URL = "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/main"
 OUTPUT_FILE = os.path.join(BASE_DIR, "home.json")
 VALID_FOLDERS = ['amoled', 'anime', 'hero']
 
