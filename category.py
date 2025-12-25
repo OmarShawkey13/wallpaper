@@ -5,7 +5,7 @@ import json
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 categories = []
 VALID_FOLDERS = ['amoled', 'anime', 'hero']  # المجلدات المراد قراءتها فقط
-BASE_URL = "https://raw.githubusercontent.com/OmarShawkey13/RcWallPaper/refs/heads/main"
+BASE_URL = "https://raw.githubusercontent.com/OmarShawkey13/WallPaper/refs/heads/main"
 
 for folder in VALID_FOLDERS:
     folder_path = os.path.join(BASE_DIR, folder)
