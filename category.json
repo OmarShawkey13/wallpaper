@@ -13,6 +13,12 @@
       "imageCount": 32
     },
     {
+      "name": "cartoon",
+      "displayName": "Cartoon",
+      "thumbnail": "https://raw.githubusercontent.com/OmarShawkey13/WallPaper/refs/heads/main/cartoon/1.jpg",
+      "imageCount": 16
+    },
+    {
       "name": "hero",
       "displayName": "Hero",
       "thumbnail": "https://raw.githubusercontent.com/OmarShawkey13/WallPaper/refs/heads/main/hero/1.jpg",
